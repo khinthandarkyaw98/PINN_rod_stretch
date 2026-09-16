@@ -11,13 +11,11 @@ A Gentle Introduction to Physics-Informed Neural Networks, with Applications in 
 
 We consider a rod of length
 
-\[L = 1\]
+$$L = 1$$
 
 with distributed axial loading
 
-\[
-q(x)=cx
-\]
+$$q(x)=cx$$
 
 The governing differential equation is
 
